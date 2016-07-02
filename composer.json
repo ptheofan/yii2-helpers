@@ -1,0 +1,22 @@
+{
+    "name": "ptheofan/yii2-helpers",
+    "description": "A collection of commonly used helper classes.",
+    "keywords": ["yii2", "Helpers", "Utilities", "Toolbox"],
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "support": {
+        "source": "https://github.com/ptheofan/yii2-helpers"
+    },
+    "authors": [
+        {
+            "name": "Paris Theofanidis",
+            "email": "ptheofan@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": { "ptheofan\\helpers\\": "" }
+    }
+}
